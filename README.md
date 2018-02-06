@@ -1,16 +1,19 @@
 # IDS6145(SimTech 2018) - Research Plan (Template)
 (remember all text between brackets to be removed in proposal and final, like template above)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Divide & conquer
+> * Group participants names: Chiang, Hsian-Chin; Coad, Jonathan; Lord, John
+> * Project Title: How to Ace Green Space
 
-(Abstract here - basically your pitch with some modification - but short overview)
+In our proposal, we wish to model a representation of an urban, city block that is turned to green space. We look to answer whether commuters can transition through said city block in an efficient and timely manner while utilizing shared resources. We believe that transitioning cities into car free “green zones” could enhance timeliness and help reduce emissions. This idea is already in progress across the pond and we want to examine how this revolutionary idea could work in America as well.
+
+![**Green Space**](images/cities.png)
+
 (TEASER IMAGE HERE - should wow me to read your work)
 
 
 
-(directions, - remove)
+
 * (this Readme should "evolve" over time as you add and edit it)
 * (once you are happy with it - copy it into the proposal directory, and remove the obvious sections that should be removed - Future work, etc)
 
