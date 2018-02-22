@@ -8,6 +8,7 @@
 In our proposal, we wish to model a representation of an urban, city block that is turned to green space. We look to answer whether commuters can transition through said city block in an efficient and timely manner while utilizing shared resources. We believe that transitioning cities into car free “green zones” could enhance timeliness and help reduce emissions. This idea is already in progress across the pond and we want to examine how this revolutionary idea could work in America as well.
 
 ![**Car Free Cities**](https://github.com/jwlord05/project_template/blob/master/images/qc_spark_smartcity_inline1_113015.png)
+(Photo credit: Labcities)
 
 (TEASER IMAGE HERE - should wow me to read your work)
 
@@ -20,6 +21,8 @@ In our proposal, we wish to model a representation of an urban, city block that 
 
 ## General Introduction
 
+Cities today experience public health issues related to transportation including unnecessary traffic deaths, pedestrian injuries, air pollution, and seditary lifestyles. Cars cause costly road damage, congestion, and oil dependence. The total bill for traffic congestion, pollution and accidents for example has been estimated at EUR 502 billion per year across the EU Member States (INFRAS, 2000). Cars also require parking spaces that take up land in already limited space in cities that can utilize the land for green projects such as building parks and planting tress.
+
 A smart city, or “eco-city” promotes the health and prosperity of its citizenry. The creation of green space within an eco-city is allowed by eliminating vehicular traffic in urban areas. This idea of transforming areas into green space has several potential benefits. 
 
 •	Reduced carbon emissions mean that the air will be less polluted and cleaner for pedestrians 
@@ -30,11 +33,9 @@ A smart city, or “eco-city” promotes the health and prosperity of its citize
 
                                                              (Kuo & Sullivan, 2001; White, 2013)
                                                              
-Cities outside of the United States have already implemented these “car-free” zones and the results speak for themselves. Hamburg, Germany has plans to create a green network by reducing automobiles and crowded traffic systems and replacing them with parks. Hamburg and Oslo saw a 40 percent reduction of NO2 gas emission (Nieuwenhuijsen & Khreis, 2016). Beijing, China is testing ways to decrease smog and environmental pollution by installing large filtration systems (Phillips, 2016). In the past 3 years, American cities like San Francisco, New York, Philadelphia, and Chicago started car free movements hoping to affect climate change and the obesity crisis (Wood, 2007). 
+Cities outside of the United States have already implemented these “car-free” zones and the results speak for themselves. Hamburg, Germany has plans to create a green network by reducing automobiles and crowded traffic systems and replacing them with parks. Hamburg and Oslo saw over 40 percent reduction of NO2 gas emission (Nieuwenhuijsen & Khreis, 2016). Beijing, China is testing ways to decrease smog and environmental pollution by installing large filtration systems (Phillips, 2016). In the past 3 years, American cities like San Francisco, New York, Philadelphia, and Chicago started car free movements hoping to affect climate change and the obesity crisis (Wood, 2007). Paris held a car free day limiting the use of personal vehicles in 30 percent of the city. Data collected over that day showed a 40 percent decrease in air pollution (Willshre, 2015)
 
 In fact, there appear to be almost no negative aspects of car-free urban areas. The question then is, for cities in the United States of America that were built around the extensive use of vehicular traffic; can modern resources be used efficiently to effectively transition urban city space into green space. 
-
-## Project Goal 
 
 We wish to observe what the best, or average travel time may be for commuters to get through public, urban city property while utilizing shared resources. 
 
@@ -58,9 +59,10 @@ We wish to observe what the best, or average travel time may be for commuters to
 •	(Contribution 1)
 •	(Contribution 2)
 
-
-
 ## The Model
+
+
+![**Transportation policies and adverse effects**](https://github.com/jwlord05/project_template/blob/master/images/1-s2.0-S0160412016302161-gr1.jpg)
 
 (Provide structural and behavior diagrams of the system you wish to study.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?) (Use the model to tell us what is going on.)
 
@@ -132,9 +134,13 @@ c)	Restaurant/entertainment building
 
 ## References
 
+INFRAS Traffic congestion, pollution and accidents result in significant direct and indirect costs. The total bill has been estimated at EUR 502 billion per year across the EU member states. 2000. INFRAS Consulting Group for Policy Analysis and Implementation (www.INFRAS.ch) and IWW, Universitaet Karlsruhe, Germany (www.iww.uni-karlsruhe.de)
+
 Nieuwenhuijsen, M.J., & Khreis, H. (2016). Car Free Cities: Pathway to Healthy Urban Living. Environment International, 94, 251-262.
 
 Phillips, B. (2016, July 20). A 23-Foot-Tall Air Purifier Gets a Tryout in Smoggy Beijing. Retrieved from https://www.nytimes.com/2016/07/21/us/a-23-foot-tall-air-purifier-gets-a-tryout-in-smoggy-beijing.html?_r=0
+
+Willshre, K. (2015, October 3). Paris’s first attempt at car-free day brings big drop in air and noise pollution. The Guardian. Retrieved from https://www.theguardian.com/world/2015/oct/03/pariss-first-attempt-at-car-free-day-brings-big-drop-in-air-and-noise-pollution
 
 Wood, D. B. (2007, May 2). On the rise in American cities: the car-free zone. Christian Science Monitor, 99, 109.
 
