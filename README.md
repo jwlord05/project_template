@@ -63,6 +63,7 @@ We wish to observe what the best, or average travel time may be for commuters to
 
 
 ![**Transportation policies and adverse effects**](https://github.com/jwlord05/project_template/blob/master/images/1-s2.0-S0160412016302161-gr1.jpg)
+Fig. 1 Transportation policies and adverse systemic effects (Nieuwenhuijsen & Khreis, 2016)
 
 (Provide structural and behavior diagrams of the system you wish to study.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?) (Use the model to tell us what is going on.)
 
