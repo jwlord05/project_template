@@ -7,7 +7,7 @@
 
 In our proposal, we wish to model a representation of an urban, city block that is turned to green space. We look to answer whether commuters can transition through said city block in an efficient and timely manner while utilizing shared resources. We believe that transitioning cities into car free “green zones” could enhance timeliness and help reduce emissions. This idea is already in progress across the pond and we want to examine how this revolutionary idea could work in America as well.
 
-![**Green Space**](images/cities.png)
+![**Car Free Cities**](https://github.com/jwlord05/project_template/blob/master/images/qc_spark_smartcity_inline1_113015.png)
 
 (TEASER IMAGE HERE - should wow me to read your work)
 
