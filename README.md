@@ -53,7 +53,7 @@ A smart city, or “eco-city” promotes the health and prosperity of its’ cit
 
 For this proposal we have chosen only to include a structural diagram. This is because we are not an agent-based model and therefore should not include a behavioral diagram. 
 
-(Provide structural and behavior diagrams of the system you wish to study.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?) (Use the model to tell us what is going on.) 
+![image of diagram](images/ecocity.png)
 
  
 
@@ -132,6 +132,8 @@ We hypothesize the following:
 1. Overall the average time of commute given an individual recourse (ped, bike, tram) is positively affected by the number of resources available, until a point of diminishing returns, when the amount of resources available either does not affect commute time, or negatively affects commute times. 
 
 2. Combining all three resource types will positively affect the overall average commute time and have a lower point of diminishing returns wherein the amount of resources negatively effects the average commute time. 
+
+![image of graph](images/graph.png)
 
 3. There is an optimal location for available resources to be most utilized and contribute to the average commute time.  
 
