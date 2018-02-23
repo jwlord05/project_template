@@ -53,7 +53,7 @@ A smart city, or “eco-city” promotes the health and prosperity of its’ cit
 
 For this proposal we have chosen only to include a structural diagram. This is because we are not an agent-based model and therefore should not include a behavioral diagram. 
 
-![image of diagram](images/ecocity.png)
+![image of diagram](images/Updated Smart City (Green City).png)
 
  
 
