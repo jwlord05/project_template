@@ -1,148 +1,165 @@
-# IDS6145(SimTech 2018) - Research Plan (Template)
+# IDS6145 - Research Plan  
+
+> * Group Name: Divide & conquer 
+
+> * Group participants names: Chiang, Hsian-Chin; Coad, Jonathan; Lord, John 
+
+> * Project Title: How to Ace Green Space 
+
+  
+
+In our proposal, we wish to model a representation of an urban, city block that is turned to green space. We look to answer whether commuters can transition through said city block in an efficient and timely manner while utilizing shared resources. We believe that transitioning cities into car free “green zones” could enhance timeliness and help reduce emissions. This idea is already in progress across the pond and we want to examine how this revolutionary idea could work in America as well. 
+
+  
+
+![**Green Space**](images/greenspace.jpg) 
+
+## Introduction  
+
+Project Goal: We wish to observe what the best, or average travel time may be for commuters to get through public, eco-city property while utilizing shared resources.  
+
+Cities outside of the United States have already implemented these “car-free” zones and the results speak for themselves. Paris, France has already reduced overall emissions by thirty percent. This was done by reducing the number of cars on the streets and converting those spaces to green space. Hamburg, Germany has plans to create a green network by reducing automobiles and crowded traffic systems and replacing them with parks. Hamburg and Oslo saw over 40 percent reduction of NO2 gas emission (Nieuwenhuijsen & Khreis, 2016). Beijing, China is testing ways to decrease smog and environmental pollution by installing large filtration systems (Phillips, 2016). And Chengdu, China is promising their reduced traffic in urban areas will decrease traffic stalls, and they enable pedestrians to complete their commute in only fifteen minutes.  
+
+In fact, there appear to be almost no negative aspects of car-free urban areas. The question then is, for cities in the United States of America that were built around the extensive use of vehicular traffic; can modern resources be used efficiently to effectively transition urban city space into green space.  
+
+A smart city, or “eco-city” promotes the health and prosperity of its’ citizenry. The creation of green space within an eco-city is allowed by eliminating vehicular traffic in urban areas. This idea of transforming areas into green space has several potential benefits.  
+
+*  Reduced carbon emissions mean that the air will be less polluted and cleaner for pedestrians  
+
+*  The removal of independent vehicles on the roadway increases the safety levels of the street 
+
+*  An overall boost to public health both mentally and physically and increased social awareness        
+   (Kuo & Sullivan, 2001; White, 2013) 
 
 
-> * Group Name: Divide & conquer
-> * Group participants names: Chiang, Hsian-Chin; Coad, Jonathan; Lord, John
-> * Project Title: How to Ace Green Space
 
-In our proposal, we wish to model a representation of an urban, city block that is turned to green space. We look to answer whether commuters can transition through said city block in an efficient and timely manner while utilizing shared resources. We believe that transitioning cities into car free “green zones” could enhance timeliness and help reduce emissions. This idea is already in progress across the pond and we want to examine how this revolutionary idea could work in America as well.
+++Our problem++ is that we need to show that transitioning to car-free superblocks can be just as, if not more efficient than the traditional method of commuting. This can become complicated due to the development of cities within America, and how the population is used to traditional routine when it comes to commuting.  
 
-![**Car Free Cities**](https://github.com/jwlord05/project_template/blob/master/images/qc_spark_smartcity_inline1_113015.png)
-(Photo credit: Labcities)
+++Our Motivation++ for this is thoroughly discussed about with mental and physical benefits to our well-being. In addition to this, we also expect to see various benefits of commerce and public relations, similar to what has been seen in Spain and other areas (Vox, 2016). 
 
-(TEASER IMAGE HERE - should wow me to read your work)
+++Our proposed solution++ is to implement the idea of eco-friendly, urban, green zones into more cities within the United States. First, we will create a model of an urban city block. General hypotheses regarding the demographics and size of the block will help us to populate the number of businesses, residencies, entertainment options, and people (commuters, residents, shoppers). We will also create hypothetical resources that can be utilized by the various people within said block. These resources include: trams and tram path, bikes and bike path, and pedestrian paths. We will use AnyLogic to conduct a continuous-based simulation of this model and calculate the average time it takes for commuters to travel from parking hubs outside of the block, through the block to their generalized business locations, while utilizing shared resources (tram, bike, pedestrian paths) for residents, commuters and miscellaneous people. 
 
+ 
 
+++Our contributions++ for this proposal include the following towards this and future projects: 
 
+1. By promoting green zones within urban areas in the US, we are contributing to the mental health and eco-friendly environment. 
 
-* (this Readme should "evolve" over time as you add and edit it)
-* (once you are happy with it - copy it into the proposal directory, and remove the obvious sections that should be removed - Future work, etc)
+2. By conducting a continuous-based simulation with the said variables, we are promoting the idea that given the right amount of shared resources, placed in the right position, there will be little, to no degradation in outside participation/workability inside the green space.  
 
+ 
 
-## General Introduction
+## The Model 
 
-Cities today experience public health issues related to transportation including unnecessary traffic deaths, pedestrian injuries, air pollution, and seditary lifestyles. Cars cause costly road damage, congestion, and oil dependence. The total bill for traffic congestion, pollution and accidents for example has been estimated at EUR 502 billion per year across the EU Member States (INFRAS, 2000). Cars also require parking spaces that take up land in already limited space in cities that can utilize the land for green projects such as building parks and planting tress.
+For this proposal we have chosen only to include a structural diagram. This is because we are not an agent-based model and therefore should not include a behavioral diagram. 
 
-A smart city, or “eco-city” promotes the health and prosperity of its citizenry. The creation of green space within an eco-city is allowed by eliminating vehicular traffic in urban areas. This idea of transforming areas into green space has several potential benefits. 
+(Provide structural and behavior diagrams of the system you wish to study.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?) (Use the model to tell us what is going on.) 
 
-•	Reduced carbon emissions mean that the air will be less polluted and cleaner for pedestrians 
+ 
 
-•	The removal of independent vehicles on the roadway increases the safety levels of the street
+##Requirements:  
 
-•	An overall boost to public health both mentally and physically and increased social awareness    
+Overcrowding, pollution, and lack of recreation are all problems that a major city must face. To help alleviate these issues, green space(s) have been implemented, and somewhat successfully. This paper proposes the following experiment to see how well cities can transition from their current situation into eco-friendlier green zones. Requirements are as follows: 
 
-                                                             (Kuo & Sullivan, 2001; White, 2013)
-                                                             
-Cities outside of the United States have already implemented these “car-free” zones and the results speak for themselves. Hamburg, Germany has plans to create a green network by reducing automobiles and crowded traffic systems and replacing them with parks. Hamburg and Oslo saw over 40 percent reduction of NO2 gas emission (Nieuwenhuijsen & Khreis, 2016). Beijing, China is testing ways to decrease smog and environmental pollution by installing large filtration systems (Phillips, 2016). In the past 3 years, American cities like San Francisco, New York, Philadelphia, and Chicago started car free movements hoping to affect climate change and the obesity crisis (Wood, 2007). Paris held a car free day limiting the use of personal vehicles in 30 percent of the city. Data collected over that day showed a 40 percent decrease in air pollution (Willshre, 2015)
+1.  Given an urban area of size (n), wherein all the streets are closed to public traffic 
 
-In fact, there appear to be almost no negative aspects of car-free urban areas. The question then is, for cities in the United States of America that were built around the extensive use of vehicular traffic; can modern resources be used efficiently to effectively transition urban city space into green space. 
+2.  Given public transportation is available (scalable) in the same area 
 
-We wish to observe what the best, or average travel time may be for commuters to get through public, urban city property while utilizing shared resources. 
+    a.  Public tram with variable routes through the area
+      i. Tram includes three cars (can vary) 
+     ii. Tram carries up to twenty-five passengers per car 
+    iii. Tram travels fifteen mph 
+   
+    b.     Public bike rentals available at various locations through the area 
+      i. Bikes can only carry ONE passenger 
+     ii. Bikes travel at a constant of five mph 
+    iii. Bikes can only travel one path. 
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+    c.     Public bike/pedestrian paths delineated through the area 
+      i. Pedestrians can only travel on pedestrian area 
+     ii. Pedestrians travel at two and a half mph 
+3.  Commuter debarkation points are set; no more than four 
 
-(You should begin by introducing your topic. In this section, you should define the core terminology specific to the field, introduce the problem statement, and make clear the benefits (motivate!) of resolving that problem statement. The main difference between the ABSTRACT and Introduction sections is that the abstract summarizes the entire project, including results, whereas the introduc-tion only provides the motivation of the problem and an overview of the proposed solution.)
+4.  Public interaction random AND set – population (p) size feasible for area (n) of consideration
+    a.  Random population living within urban area traversing from point A (home) to point B (work)
+    b.  Random population commute to debarkation point (parking garage) and traversing from point A (parking garage) to point B (work)
+    c.  Random population utilizing green space with no start or end destination
+    d.  All population randomly utilizing one of three modes of transportation 
+      i. Walking paths 
+     ii. Bike lanes (rental bikes)
+    iii. Public tram
+    
+5. Population movement times set
+    a.  Small percentage (10%) of population movement constantly between 6:00 a.m. and 11:00 p.m. – represents miscellaneous population
+    b.  Random percentage (15-30%) of population movement between 9:00 a.m. and 11:00 p.m. – represents population utilizing businesses and green space
+    c.  Working population (55%) movement between 6:00 a.m. and 9:00 a.m. (morning), 11:30 a.m. and 1:00 p.m. (lunch), and 3:30 p.m. and 6:30 p.m. (evening) 
 
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
+6.  All buildings within area (n) identified
+    a.  Office buildings
+    b.  Residedntial buildings
+    c.  Restaurant/entertainment building 
 
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
+7.  Must compute and report average time for commuters to traverse from point A to point B 
 
-(Motivation. Why is this problem interesting and relevant to the research community?)
+ 
 
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
+## Fundamental Questions 
 
-(Contributions. An enumeration of the contributions of the senior design project)
+The following are some fundamental questions that we have established and would like to consider as we collect and analyze our data. 
 
-(This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+1.  How can we reduce the average time for commuters to transition through green space, given fixed hub locations and shared resources.
+    
+    i.  Would increasing the available resources increase or decrease the average time  
 
-## The Model
+2.  What are the correct placement of shared resources (paths routes, bike stand sizes and tram car sizes) in order to maximize commuter timelines while still being a benefit to other populations with the zone. 
 
+    i. Are the existing ideas enough? Or, do we need to establish new ideas about commuting and implement them? 
 
-![**Transportation policies and adverse effects**](https://github.com/jwlord05/project_template/blob/master/images/1-s2.0-S0160412016302161-gr1.jpg)
-Fig. 1 Transportation policies and adverse systemic effects (Nieuwenhuijsen & Khreis, 2016)
+   ii.  Are the current number of resources sufficient? Or, do we need to increase the available number of resources? 
 
-(Provide structural and behavior diagrams of the system you wish to study.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?) (Use the model to tell us what is going on.)
+3. What is the best possible location of commuter hubs in order to maximize commuter timeline? 
 
-(explicitly list your requirements of what the model will have and simulate for the proposal)
+    i.  Would adding additional hubs make commuting more efficient? 
 
-## Fundamental Questions
-(At the end of the project you want to find the answer to these questions) (Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
+   ii.  Would moving the location of the commuter hubs make commuting more efficient? 
 
-## Expected Results
-(What are the answers to the above questions that you expect to find before starting your research?) (This changes from Expected (Proposal) to just Results (final report)) (you should verbally define them) (sketch a few graphs of what you are roughly going for - not the data but histogram of this, line graph of that, screenshot of an agent - use paper and pencil sketches)
+ 
 
-## Research Methods
+## Expected Results 
 
-We believe that our goal can best be accomplished by using a continuous-based simulation. Specifically, we will use AnyLogic to model the city space and use human-like entities as our agents. Our city space will be representative of an urban city block that has been turned into green space. The continuous-based simulation was chosen because all agent choices are randomized (therefore not agent-based), and nothing within the simulation changes over time (therefore not discrete-event based). The model will need to be simulate multiple times to produce the average wait time for commuters as they travel from point A to point B. 
+We hypothesize the following: 
 
-Overcrowding, pollution, and lack of recreation are all problems that a major city must face. To help alleviate these issues, green space(s) have been implemented, and somewhat successfully. This paper proposes the following experiment to see how well cities can transition from their current situation into eco-friendlier green zones. Requirements are as follows:
-1.	Given an urban area of size (n), wherein all the streets are closed to public traffic
+1. Overall the average time of commute given an individual recourse (ped, bike, tram) is positively affected by the number of resources available, until a point of diminishing returns, when the amount of resources available either does not affect commute time, or negatively affects commute times. 
 
-2.	Given public transportation is available (scalable) in the same area
-a)	Public tram with variable routes through the area
+2. Combining all three resource types will positively affect the overall average commute time and have a lower point of diminishing returns wherein the amount of resources negatively effects the average commute time. 
 
-     i. Tram includes three cars (can vary)
-    ii. Tram carries up to twenty-five passengers per car
-   iii. Tram travels fifteen mph
+3. There is an optimal location for available resources to be most utilized and contribute to the average commute time.  
 
-b)     Public bike rentals available at various locations through the area
-            i. Bikes can only carry ONE passenger
-           ii. Bikes travel at a constant of five mph
-          iii. Bikes can only travel one path.
+4. There are optimal locations for pedestrian (ped), bike, and tram routes, and times when those resources will be most used and contribute the most to the average commute time. 
 
-c)     Public bike/pedestrian paths delineated through the area
-            i. Pedestrians can only travel on pedestrian area
-           ii. Pedestrians travel at two and a half mph
+ 
 
-3.	Commuter debarkation points are set; no more than four
+ 
 
-4.	Public interaction random AND set – population (p) size feasible for area (n) of consideration
-a)	Random population living within urban area traversing from point A (home) to point B (work)
-b)	Random population commute to debarkation point (parking garage) and traversing from point A (parking garage) to point B (work)
-c)	Random population utilizing green space with no start or end destination 
-d)	All population randomly utilizing one of three modes of transportation
-    i. Walking paths
-   ii. Bike lanes (rental bikes)
-  iii. Public tram
+## Research Methods 
 
-5.	Population movement times set
-a)	Small percentage (10%) of population movement constantly between 6:00 a.m. and 11:00 p.m. – represents miscellaneous population
-b)	Random percentage (15-30%) of population movement between 9:00 a.m. and 11:00 p.m. – represents population utilizing businesses and green space
-c)	Working population (55%) movement between 6:00 a.m. and 9:00 a.m. (morning), 11:30 a.m. and 1:00 p.m. (lunch), and 3:30 p.m. and 6:30 p.m. (evening)
+We believe that our goal can best be accomplished by using a continuous-based simulation. Specifically, we will use AnyLogic to model the city space and use human-like entities as our agents. Our city space will be representative of an urban city block that has been turned into green space. The continuous-based simulation was chosen because all agent choices are randomized (therefore not agent-based), and nothing within the simulation changes over time (therefore not discrete-event based). The model will need to be simulate multiple times to produce the average wait time for commuters as they travel from point A to point B.  
 
-6.	All buildings within area (n) identified
-a)	Office buildings
-b)	Residential buildings
-c)	Restaurant/entertainment building
+ 
 
-7.	Must compute and report average time for commuters to traverse from point A to point B
+## References 
 
+Balch, O. (2015, April 20). Garden cities: can green space bring health and happiness? Retrieved from The Guardian: https://www.theguardian.com/sustainable-business/2015/apr/20/garden-cities-can-green-spaces-bring-health-and-happiness 
 
-(Cellular Automata, Agent-Based Model, Discrete Event Continuous Modeling...)(Python or Anylogic) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards) (Steps in the process)
+Garfield, L. (2017, February 2). Business Insider. Retrieved from 12 major cities that are starting to go car-free: http://www.businessinsider.com/cities-going-car-free-2017-2 
 
-## (Other)
-(change the title and amount of headers as needed) (mention datasets you are going to use) (mention base code or examples you)
+Kuo, F. E. (2001). Aggression and Violence in the Inner City: Effects of Environment via Mental Fatigue. Environment and Behavior, 543-571. 
 
-## Discussion
-(final only - remove whole section for proposal Readme) (What would you have done differently) (What are the contributions summerize)(what is the big take away)(what did you learn)
+Nieuwenhuijsen, M.J., & Khreis, H. (2016). Car Free Cities: Pathway to Healthy Urban Living. Environment International, 94, 251-262.  
 
-## Future Work
-(final only - remove whole section for proposal Readme) (if you had 6 more months what would be the next steps in this project.) (What are a few questions you have now)
+Phillips, B. (2016, July 20). A 23-Foot-Tall Air Purifier Gets a Tryout in Smoggy Beijing. Retrieved from https://www.nytimes.com/2016/07/21/us/a-23-foot-tall-air-purifier-gets-a-tryout-in-smoggy-beijing.html?_r=0  
 
-## References
+Vox. (2016, September 27). Superblocks: How Barcelona is taking city streets back from cars. Retrieved from YouTube: https://www.youtube.com/watch?v=ZORzsubQA_M 
 
-INFRAS Traffic congestion, pollution and accidents result in significant direct and indirect costs. The total bill has been estimated at EUR 502 billion per year across the EU member states. 2000. INFRAS Consulting Group for Policy Analysis and Implementation (www.INFRAS.ch) and IWW, Universitaet Karlsruhe, Germany (www.iww.uni-karlsruhe.de)
+White, M. P. (2013). Would You Be Happier Living in a Greener Urban Area? A Fixed-Effects Analysis of Panel Data. Psychological Science, 920-928. 
 
-Nieuwenhuijsen, M.J., & Khreis, H. (2016). Car Free Cities: Pathway to Healthy Urban Living. Environment International, 94, 251-262.
-
-Phillips, B. (2016, July 20). A 23-Foot-Tall Air Purifier Gets a Tryout in Smoggy Beijing. Retrieved from https://www.nytimes.com/2016/07/21/us/a-23-foot-tall-air-purifier-gets-a-tryout-in-smoggy-beijing.html?_r=0
-
-Willshre, K. (2015, October 3). Paris’s first attempt at car-free day brings big drop in air and noise pollution. The Guardian. Retrieved from https://www.theguardian.com/world/2015/oct/03/pariss-first-attempt-at-car-free-day-brings-big-drop-in-air-and-noise-pollution
-
-Wood, D. B. (2007, May 2). On the rise in American cities: the car-free zone. Christian Science Monitor, 99, 109.
-
-(Add the bibliographic references you intend to use)  (Code / Projects / blogs / websites / papers...)
