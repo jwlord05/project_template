@@ -50,7 +50,7 @@ The United States Census Bureau reports that American workers have chosen to rid
  
 
 ## The Model 
-
+![The Model](images/ecocity.png)
 ![The Model](images/model.PNG)
 
  
@@ -120,7 +120,7 @@ We hypothesize the following:
 
 2. Combining all three resource types will positively affect the overall average commute time and have a lower point of diminishing returns wherein the amount of resources negatively effects the average commute time. 
 
-![graph](images/graph.PNG)
+![graph](images/img_exp.JPG)
 
  
 
