@@ -12,14 +12,7 @@ May 1st, 2018
 
 [TOC]
 
-``Table of Contents``
-    *[Introduction](#Introduction)
-    *[Methods](#Methods)
-    *[Fundamental Questions](Fundamental Questions)
-    *[Results](Results)
-    *[Discussion](Discussion)
-    *[Future Research](Future Research)
-    *[References](References)
+
 
 <center>
 ##Introduction
