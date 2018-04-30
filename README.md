@@ -20,7 +20,8 @@ This project was completed by Jonathan Coad and John Lord in fullfillment of the
 
 
 
-[We testify by our signatutes that this project was completed by us with no outside help.](cover_letter/signed.pdf)
+[We testify by our signatutes that this project was completed by us with no outside help.](coverletter/signed.pdf)
+![what](coverletter/signed.pdf)
 
 
 
