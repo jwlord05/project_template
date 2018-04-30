@@ -1,4 +1,3 @@
-c
 <center>
 **How to Ace Green Space: A quantitative analysis of potential modes of transportation and commute times for pedestrians while utilizing shared resources in an urban environment**
 
@@ -13,8 +12,14 @@ May 1st, 2018
 
 [TOC]
 
-
-
+``Table of Contents``
+    *[Introduction](#Introduction)
+    *[Methods](#Methods)
+    *[Fundamental Questions](Fundamental Questions)
+    *[Results](Results)
+    *[Discussion](Discussion)
+    *[Future Research](Future Research)
+    *[References](References)
 
 <center>
 ##Introduction
