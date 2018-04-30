@@ -20,9 +20,8 @@ This project was completed by Jonathan Coad and John Lord in fullfillment of the
 
 
 
-[We testify by our signatutes that this project was completed by us with no outside help.](signed.pdf)
-[test](coverletter/signed.pdf)
-![what](signed.pdf)
+We testify by our signatutes that this project was completed by us with no outside help.
+![pic of letter](coverletter/signed.png)
 
 
 
@@ -31,6 +30,6 @@ The Project is grouped as follows:
 
 
 
-#[Proposal](proposal/README.md)
+###[Proposal](proposal/README.md)
 
-#[Final](final/README.md)
+###[Final](final/README.md)
